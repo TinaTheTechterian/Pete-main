@@ -1,2 +1,1 @@
-# Pete-main
-Deeper with CSS
+# starter-pete-thinkful-portfolio
